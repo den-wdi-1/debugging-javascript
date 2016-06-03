@@ -1,8 +1,14 @@
 <!--
+Created By: Alex White
 Market: SF
+Adapted By: Zeb Girouard
 -->
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
+
+<!--  Hook
+  Let me paint a picture.  It's 1 am.  You've been working on a project for 6 hours.  Hour one and two went pretty well, but then your code stopped working.  You spent a couple hours just getting your website to not be a blank screen.  And once you managed that, all your website images were broken.  What happened?!  I have some bad news.  You'll experience this hundreds if not thousands of times as a developer.  The good news is, if you learn and apply the debugging lessons in this immersive, you can cut the keyboard mashing and the swearing down a lot.
+-->
 
 # JS Debugging
 
@@ -30,6 +36,8 @@ Market: SF
 
 
 ## Let's get to it!
+
+<!-- Demo this with students at half-mast first, they will have to do it themselves before independent practice -->
 
 At the moment, most of the JavaScript applications we've written have been fairly simple, and most have not been longer than a hundred lines. As applications and websites get more and more complex, we need increasingly powerful tools to help us detect bugs, typos, implementation errors – and fix them quickly and efficiently.
 
