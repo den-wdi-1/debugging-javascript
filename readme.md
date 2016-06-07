@@ -19,13 +19,12 @@ Adapted By: Zeb Girouard
 
 ## What are the objectives?
 *After this workshop, developers will be able to:*
-*After this lesson, students will be able to:*
 
-- Identify and resolve common and uncommon "logical errors" that affect the results of your program
-- Use logs to troubleshoot errors in an application (console log in Dev Tools)
-- Conduct real-time debugging in the browser (start small, triangulation, remove code)
-- Access properties of a class using helper methods ( typeOf( ) for datatypes)
-- Use debuggers and breakpoints to identify logical errors in expressions
+- **Identify** and **resolve** common and uncommon "logical errors" that affect the results of your program
+- **Use** logs to troubleshoot errors in an application (console log in Dev Tools)
+- **Conduct** real-time debugging in the browser (start small, triangulation, remove code)
+- **Access** properties of a class using helper methods ( typeOf( ) for datatypes)
+- **Use** debuggers and breakpoints to identify logical errors in expressions
 
 ## Where should we be now?
 *Before this workshop, developers should already be able to:*
@@ -33,7 +32,7 @@ Adapted By: Zeb Girouard
 - Use chrome dev tools
 - Use a text editor
 
-
+<!-- CFU Fist-to-five on these two concepts -->
 
 ## Let's get to it!
 
