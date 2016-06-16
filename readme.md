@@ -131,16 +131,6 @@ Most of the time, the JavaScript in a website will be minified, meaning that var
 
 > When you start building web apps in larger frameworks like Rails or Express, you'll set up your development environment so that code is only minified when you're deploying a production app, not while you're developing actively.
 
-<!--## Independent Practice (15 mins)
-
-Debug the code using the Chrome development tools. Uncomment:
-
-```
-  <script type="text/javascript" src="./js/debug.js"></script>
-```
-
-You need to get the functions to log out, one after the other.-->
-
 ## Closing Thoughts
 
 Javascript debugging tools have improved significantly over the last few years. It is especially important to understand the link between the JS V8 Engine in Chrome and the way that error reporting is handled, and how you can interact with your scripts to figure out what's going on.
